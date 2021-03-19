@@ -45,4 +45,38 @@ body {
 
 .hero{
 	margin-top: 100px;
+	/*position: absolute;*/
+  /*top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);*/
+  background-image: url("../img/backdrop.jpg");
+  background-size: auto 100% ;
+  background-position: 50% 50%;
+  height: 100vh;
 }
+.center {
+	padding-top: 40vh;
+	text-align: center;
+}
+.center a {
+	font size: 20px;
+	color: white;
+	background-color: black;
+	padding: 10px;
+	text-decoration: none;
+}
+.center a:hover{
+	text-decoration: underline;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
