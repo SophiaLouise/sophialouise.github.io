@@ -66,6 +66,9 @@ height: auto;
 .grid-item a:hover {
 	border: solid white;
 }
+.grid-item a {
+	margin-bottom: 50px;
+}
 
 
 
