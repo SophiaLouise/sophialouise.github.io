@@ -1,0 +1,50 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+.nav{
+	position: fixed;
+	top :0;
+	right:0;
+	left:0;
+	background-color: black;
+}
+
+.logo {
+	float: left;
+}
+
+.logo img{
+	height :80px;
+	width: auto;
+}
+
+.nav-text {
+	float: right;
+}
+
+.nav-text ul{
+	list-style-type: none;
+}
+
+.nav-text ul li {
+	display: inline;
+	padding: 10px;
+}
+
+.nav-text ul li a{
+	color:white;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+.nav-text ul li a:hover{
+	text-decoration: underline;
+}
+.center {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90vw;
+}
