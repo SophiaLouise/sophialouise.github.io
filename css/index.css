@@ -50,7 +50,7 @@ body {
   /*top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);*/
-  background-image: url("../img/backdrop.jpg");
+  background-image: url("../img/secondarybackdrop.PNG");
   background-size: auto 100% ;
   background-position: 50% 50%;
   height: 100vh;
