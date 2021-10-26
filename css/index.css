@@ -51,6 +51,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);*/
   background-image: url("../img/secondarybackdrop.PNG");
+  /*switche the occa and img for background spice it up a bit */
   background-size: auto 100% ;
   background-position: 50% 50%;
   height: 100vh;
